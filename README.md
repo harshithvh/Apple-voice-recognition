@@ -6,7 +6,7 @@ Machine Learning
 <img align="left" alt="Visual Studio Code" width="820px" height="620px" src="https://zesium.com/wp-content/uploads/2020/12/people-using-voice-recognition_18591-47310.jpg" /> 
 
 
-## How does Siri work?
+### How does Siri work?
 
 ---
 
@@ -65,3 +65,12 @@ Within-person variability in our vocal signals is
 substantial: we volitionally modulate our voices to express our
 thoughts and intentions or adjust our vocal outputs to suit a
 particular audience, speaking environment, or situation.
+
+### Prerequisites
+
+---
+
+pip install speaker-verification-toolkit
+pip install numba==0.48
+In case an **ERROR** occurs while installing numba==0.48 then:
+pip install librosa --ignore-installed llvmlite
