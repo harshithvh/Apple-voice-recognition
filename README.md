@@ -6,9 +6,8 @@ Machine Learning
 <img align="left" alt="Visual Studio Code" width="820px" height="620px" src="https://zesium.com/wp-content/uploads/2020/12/people-using-voice-recognition_18591-47310.jpg" />
 
 ---
----
 
-# How does Siri works?
+# How does Siri work?
 
 ---
 
