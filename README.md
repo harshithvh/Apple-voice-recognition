@@ -70,10 +70,28 @@ particular audience, speaking environment, or situation.
 
 ---
 
-pip install speaker-verification-toolkit
+On the Terminal run - pip install speaker-verification-toolkit
 <br />
-pip install numba==0.48
+On the Terminal run - pip install numba==0.48
 <br />
 In case an **ERROR** occurs while installing numba==0.48 then :
 <br />
-pip install librosa --ignore-installed llvmlite
+On the Terminal run - pip install librosa --ignore-installed llvmlite
+
+### Extra
+
+---
+
+**Numba** is an upgraded version of **Numpy**
+<br />
+**Librosa** is a python package for music and audio analysis
+<br />
+**svt.rms_silence_filter()** used for filtering environment noise
+<br />
+**Mel-Frequency Cepstral Coefficients (MFCC)** feature extraction
+method is a leading approach for speech feature extraction and
+current research aims to identify performance enhancements.
+<br />
+Known_1, Known_2, Unknown are sample audio voices
+<br />
+Covert audio from **.mp4** to **.wav** beacuse librosa supports .wav
