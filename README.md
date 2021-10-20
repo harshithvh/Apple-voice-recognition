@@ -30,7 +30,7 @@ online servers. Siri is then able to craft complete and cohesive
 sentences relevant to the type of question or command requested.
 
 # Technology behind Voice Identification
----
+
 Voice identification technology captures and measures the physical
 qualities of a person’s voice when speaking as well as the unique
 biological parameters that combine to produce that voice.
