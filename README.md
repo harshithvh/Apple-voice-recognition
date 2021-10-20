@@ -3,10 +3,10 @@ Machine Learning
 
 ---
 
-<img align="left" alt="Visual Studio Code" width="820px" height="620px" src="https://zesium.com/wp-content/uploads/2020/12/people-using-voice-recognition_18591-47310.jpg" />  '\n'
+<img align="left" alt="Visual Studio Code" width="820px" height="620px" src="https://zesium.com/wp-content/uploads/2020/12/people-using-voice-recognition_18591-47310.jpg" /> 
 
 
-# How does Siri work?
+### How does Siri work?
 
 ---
 
@@ -28,7 +28,7 @@ needed can be accessed from within the phone’s data banks or from
 online servers. Siri is then able to craft complete and cohesive
 sentences relevant to the type of question or command requested.
 
-# Technology behind Voice Identification
+### Technology behind Voice Identification
 ---
 Voice identification technology captures and measures the physical
 qualities of a person’s voice when speaking as well as the unique
@@ -38,7 +38,7 @@ biological parameters that combine to produce that voice.
 
 These parameters Include:
 
-# #1 Pitch 
+### #1 Pitch 
 
 ---
 
@@ -48,7 +48,7 @@ brightness of the sound, and brightness may be one of several
 perceptual features of a sound used by listeners to distinguish one
 voice quality from another.
 
-# #2 Intensity 
+### #2 Intensity 
 
 ---
 
@@ -57,7 +57,7 @@ resistance by the vocal folds to increased airflow. The vocal folds are
 blown wider apart, releasing a larger puff of air that sets up a sound
 pressure wave of greater amplitude.
 
-# #3 Dynamics
+### #3 Dynamics
 
 ---
 
