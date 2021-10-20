@@ -74,6 +74,6 @@ pip install speaker-verification-toolkit
 <br />
 pip install numba==0.48
 <br />
-In case an **ERROR** occurs while installing numba==0.48 then:
+In case an **ERROR** occurs while installing numba==0.48 then :
 <br />
 pip install librosa --ignore-installed llvmlite
