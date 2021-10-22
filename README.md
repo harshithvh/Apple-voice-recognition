@@ -89,9 +89,11 @@ On the Terminal run - pip install librosa --ignore-installed llvmlite
 **>** **svt.rms_silence_filter()** used for filtering environment noise.
 <br />
 **>** **Mel-Frequency Cepstral Coefficients (MFCC)** feature extraction
-method is a leading approach for speech feature extraction and
-current research aims to identify performance enhancements.
+method is a leading approach for speech feature extraction that include
+**pitch, intensity and dynamics**.
 <br />
 **>** Known_1, Known_2, Unknown are sample audio voices.
 <br />
-**>** Covert audio from **.mp4** to **.wav** beacuse librosa supports .wav.
+**>** Covert audio from **.mp4** to **.wav** beacuse librosa supports .wav
+<br />
+**>** .wav are decompressed files which more memory( better quality).
