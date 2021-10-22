@@ -26,6 +26,7 @@ data3 = svt.extract_mfcc(data3)
 print(svt.compute_distance(data3, data2))
 
 print(svt.find_nearest_voice_data([ data3, data1], data2))
+# the index of data1(nearest to data2) is 1 therefore in my case the output is one
 
 # pip install speaker-verification-toolkit
 # pip install numba==0.48
