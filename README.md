@@ -96,4 +96,4 @@ method is a leading approach for speech feature extraction that include
 <br />
 **>** Covert audio from **.mp4** to **.wav** beacuse librosa supports .wav
 <br />
-**>** .wav are decompressed files which more memory( better quality).
+**>** .wav are decompressed files which consume more memory( better quality).
